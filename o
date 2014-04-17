@@ -1,0 +1,53 @@
+initialization complete
+[('The', 'DT'), ('all', 'DT'), ('new', 'JJ'), ('samsung', 'JJ'), ('galaxy', 'NN'), ('S5', 'NN'), (',', ','), ('in', 'IN'), ('stores', 'NNS'), ('now', 'RB')]
+--------------------------------------------------
+NP----:
+The DT
+all DT
+new JJ
+samsung JJ
+galaxy NN
+S5 NN
+[4.0, [('The', 'DT'), ('all', 'DT'), ('new', 'JJ'), ('samsung', 'JJ'), ('galaxy', 'NN'), ('S5', 'NN')]]
+val is  4.0
+NP----:
+stores NNS
+[1.0, [('stores', 'NNS')]]
+val is  1.0
+[(4.0, [('The', 'DT'), ('all', 'DT'), ('new', 'JJ'), ('samsung', 'JJ'), ('galaxy', 'NN'), ('S5', 'NN')]), (1.0, [('stores', 'NNS')])]
+(4.0, [('The', 'DT'), ('all', 'DT'), ('new', 'JJ'), ('samsung', 'JJ'), ('galaxy', 'NN'), ('S5', 'NN')])  geting added
+appending  DT The
+appending  DT all
+appending  JJ new
+appending  JJ samsung
+appending  NN galaxy
+appending  NN S5
+Main - NP  [('DT', 'The'), ('DT', 'all'), ('JJ', 'new'), ('JJ', 'samsung'), ('NN', 'galaxy'), ('NN', 'S5')]
+('DT', 'The')
+('DT', 'all')
+('JJ', 'new')
+('JJ', 'samsung')
+('NN', 'galaxy')
+('NN', 'S5')
+Final Entities -- ['new', 'samsung', 'galaxy', 'S5']
+Results from wikipedia-------------
+Samsung Galaxy
+Rank---- 8
+Samsung Galaxy S5
+Rank---- 24
+Samsung Galaxy Tab series
+Rank---- 4
+Samsung Galaxy S series
+Rank---- 15
+Exynos
+Rank---- 0
+Snapdragon (system on chip)
+Rank---- 0
+TouchWiz
+Rank---- 2
+Smartphone
+Rank---- 0
+Universal Display Corporation
+Rank---- 0
+Samsung Galaxy S4
+Rank---- 6

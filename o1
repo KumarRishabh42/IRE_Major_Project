@@ -1,0 +1,56 @@
+initialization complete
+[('get', 'VB'), ('your', 'PRP$'), ('weekly', 'JJ'), ('dose', 'NN'), ('of', 'IN'), ('Game', 'NNP'), ('of', 'IN'), ('Thrones', 'NNP'), ('today', 'NN'), (',', ','), ('subscribe', 'VBP'), ('to', 'TO'), ('HBO', 'NNP')]
+--------------------------------------------------
+NP----:
+your PRP$
+weekly JJ
+dose NN
+[2.0, [('your', 'PRP$'), ('weekly', 'JJ'), ('dose', 'NN')]]
+val is  2.0
+NP----:
+Game NNP
+[2.0, [('Game', 'NNP')]]
+val is  2.0
+NP----:
+Thrones NNP
+today NN
+[3.0, [('Thrones', 'NNP'), ('today', 'NN')]]
+val is  3.0
+NP----:
+HBO NNP
+[2.0, [('HBO', 'NNP')]]
+val is  2.0
+[(3.0, [('Thrones', 'NNP'), ('today', 'NN')]), (2.0, [('your', 'PRP$'), ('weekly', 'JJ'), ('dose', 'NN')]), (2.0, [('Game', 'NNP')]), (2.0, [('HBO', 'NNP')])]
+(3.0, [('Thrones', 'NNP'), ('today', 'NN')])  geting added
+appending  NNP Thrones
+appending  NN today
+(2.0, [('your', 'PRP$'), ('weekly', 'JJ'), ('dose', 'NN')])  geting added
+appending  PRP$ your
+appending  JJ weekly
+appending  NN dose
+(2.0, [('Game', 'NNP')])  geting added
+appending  NNP Game
+(2.0, [('HBO', 'NNP')])  geting added
+appending  NNP HBO
+Main - NP  [('NNP', 'Thrones'), ('NN', 'today'), ('PRP$', 'your'), ('JJ', 'weekly'), ('NN', 'dose'), ('NNP', 'Game'), ('NNP', 'HBO')]
+('NNP', 'Thrones')
+('NN', 'today')
+('PRP$', 'your')
+('JJ', 'weekly')
+('NN', 'dose')
+('NNP', 'Game')
+('NNP', 'HBO')
+Final Entities -- ['Thrones', 'today', 'your', 'weekly', 'dose', 'Game', 'HBO']
+Results from wikipedia-------------
+Themes in A Song of Ice and Fire
+Rank---- 7
+2013 in American television
+Rank---- 0
+Parks and Recreation
+Rank---- 0
+Captain America: The First Avenger
+Rank---- 0
+2000s (decade)
+Rank---- 0
+Wu-Tang Clan
+Rank---- 0
